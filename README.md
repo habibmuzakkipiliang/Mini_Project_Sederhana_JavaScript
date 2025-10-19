@@ -1,0 +1,2 @@
+# Mini_Project_Sederhana_JavaScript
+Mini Project Sederhana JavaScript
